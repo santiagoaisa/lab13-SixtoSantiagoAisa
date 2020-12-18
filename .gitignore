@@ -1,0 +1,19 @@
+# Maven 
+target/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA
+.idea
+.DS_Store
+**/*.iml
+**/*Thumbs.db
+
+/src/main/resources/reportes/.settings/org.eclipse.core.resources.prefs
